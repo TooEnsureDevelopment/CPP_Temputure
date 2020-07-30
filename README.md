@@ -1,2 +1,4 @@
 # CPP_Temputure
-Just small software to calculate Fahrenheit to Celsius.
+Some simple small C++ software projects that convert:
+* Fahrenheit to Celsius
+* Dog years to human
